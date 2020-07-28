@@ -523,7 +523,7 @@ body.site-header-open {
 	left: 0;
 	width: 300px;
 	overflow-x: hidden;
-	overflow-y: auto;
+	overflow-y: hidden;
 	background: #151719;
 	border-right: 1px solid rgba(255,255,255,.2);
 	-webkit-overflow-scrolling: touch;
